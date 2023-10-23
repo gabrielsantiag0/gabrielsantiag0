@@ -11,9 +11,9 @@
 <img aling="center" alt="icone-html" width="40" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
 <img aling="center" alt="icone-html" width="40" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 <img aling="center" alt="icone-html" width="40" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
-<img aling="center" alt="icone-html" width="40" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg"/>
 <img aling="center" alt="icone-html" width="40" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
 <img aling="center" alt="icone-html" width="40" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+ <img aling="center" alt="icone-html" width="40" height="35" src="https://icons8.com/icon/LwQEs9KnDgIo/postgresql"/>
 </div>
 
 <div>
