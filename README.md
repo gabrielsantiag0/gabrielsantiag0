@@ -9,8 +9,8 @@
 <img aling="center" alt="icone-html" width="40" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 <img aling="center" alt="icone-html" width="40" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
 <img aling="center" alt="icone-html" width="40" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-<img aling="center" alt="icone-html" width="40" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-</div>
+[<img aling="center" alt="icone-html" width="40" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+](https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg)</div>
 
 <div>
   <a href="https://www.linkedin.com/in/gabriel-santiago-1806bb261/" target="_blank"><img src="https://img.shields.io/badge/-linkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
