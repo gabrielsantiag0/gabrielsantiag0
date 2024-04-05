@@ -1,5 +1,20 @@
-<img width=100% bottom=50px src="https://github.com/gabrielsantiag0/gabrielsantiag0/assets/44561610/33bdfb39-ffe2-4133-8716-8da8c8587e3b"/>
+# Olá, Seja Bem vindo(a) <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm8zMnJ0YXlpcmhnbXQ2Y3lyOXNtcnRpMndhOHY0dDg0NWNjZWVoZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xUPGcfEAZhlZXCZrbi/giphy.gif" width="30px">
+
+- 💻 Cursando Análise e Desenvolvimento de Sistemas
+- 🗒️ Conheça meus projetos!
 
 <br>
+<div>
+<a href="https://github.com/camsste">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsantiag0&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielsantiag0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
 <br>
-<br>
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2ZiYWptcjdpczlvbmp5dG4zcXNpc2l6djRieWhzNDZ6eW1xNHpoMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif
+" width="1000px"> 
+
+<!---
+camsste/camsste is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
