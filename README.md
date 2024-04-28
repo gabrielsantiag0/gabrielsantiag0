@@ -11,6 +11,3 @@
 </div>
 
 <br>
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2ZiYWptcjdpczlvbmp5dG4zcXNpc2l6djRieWhzNDZ6eW1xNHpoMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif
-" width="1000px"> 
-
