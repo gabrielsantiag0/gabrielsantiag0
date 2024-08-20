@@ -1,8 +1,8 @@
-# Olá, Seja Bem vindo(a) <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm8zMnJ0YXlpcmhnbXQ2Y3lyOXNtcnRpMndhOHY0dDg0NWNjZWVoZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xUPGcfEAZhlZXCZrbi/giphy.gif" width="30px">
+# Hello, Welcome <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm8zMnJ0YXlpcmhnbXQ2Y3lyOXNtcnRpMndhOHY0dDg0NWNjZWVoZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xUPGcfEAZhlZXCZrbi/giphy.gif" width="30px">
 
-- 💻 Cursando Análise e Desenvolvimento de Sistemas
-- 🗒️ Conheça meus projetos!
-
+- 💻 Studying Systems Analysis and Development
+- 🗒️ Check out my projects!
+  
 <br>
 <div>
 <a href="https://github.com/gabrielsantiag0">
